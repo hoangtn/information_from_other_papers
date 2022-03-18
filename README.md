@@ -9,4 +9,4 @@ He, X., Sanders, S. J., Liu, L., De Rubeis, S., Lim, E. T., Sutcliffe, J. S., ..
 
 ## Statistical approaches for de novo mutation (DNM) analysis.
 
-[Some statistical approaches for DNM analysis](./file/Statistical_methods_for_DNM_analysis.pdf): this note (draft) describes some recent statistical approaches for gene-level DNM analysis. We also add some simple information for calculating Bayes Factors using numerical integration.
+[Bayes Factors (BFs) for de novo mutations inside TADA](./file/Bayes Factors (BFs) in the TADA model.pdf): this note (draft) describes BFs inside the TADA package. We add some simple information for calculating Bayes Factors using numerical integration.
